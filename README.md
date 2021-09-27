@@ -1,3 +1,6 @@
+
+[![GitHub](https://img.shields.io/github/license/illchi/js-client)](https://github.com/illchi/js-client/blob/master/LICENSE)
+
 # BookStore Backend System
 
 Bookstore is a book management system with nodejs and mongodb
